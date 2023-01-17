@@ -28,6 +28,8 @@ int main(){
 	printf("\n");
 	
 	printf(ANSI_COLOR_BLUE "Your bmi is: %.2f \n" ANSI_COLOR_RESET, bmi);
+	
+	system("pause");
 	return 0;
 
 }
