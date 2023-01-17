@@ -22,5 +22,8 @@ int main(){
 	printf("Age: %d. \n", age);
 	printf("Height: %.2f. \n", height);
 	printf("Name: %s. \n", name);
+	
+	system("pause");
+	return 0;
 		
 }
