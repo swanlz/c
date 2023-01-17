@@ -15,4 +15,6 @@ int main (){
 	printf ("Age inserted is: %d. \n", age);
 	printf ("Weight inserted is: %f. \n", weight);
 	
+	system("pause");
+	return 0;
 }
