@@ -21,5 +21,7 @@ int main(){
 	printf("Multiplication: %d. \n", times);
 	printf("Division: %d. \n", divided);
 	
+	system("pause");
+	return 0;
 	
 }
