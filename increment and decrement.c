@@ -23,5 +23,8 @@ int main(){
 	value *= 5;
 	printf("Value after multiplied by 5: %d. \n", value);
 	
+	system("pause");
+	return 0;
+	
 	
 }
