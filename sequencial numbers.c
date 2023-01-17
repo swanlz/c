@@ -14,6 +14,7 @@ int main() {
 	
 	printf("Total sum is: %d.\n", total);
 	
+	system("pause");
 	return 0;
 	
 }
